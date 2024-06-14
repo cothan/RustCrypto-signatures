@@ -8,7 +8,7 @@ members = [
     "lms",
     "rfc6979",
     "slh-dsa"
-]
+, "ml-dsa"]
 
 [profile.dev]
 opt-level = 2
