@@ -16,3 +16,5 @@ keywords = ["crypto", "signature"]
 
 [dependencies]
 signature = { version = "2.3.0-pre.0", features = ["rand_core"] }
+hybrid-array = { version = "0.2.0-rc.9", features = ["extra-sizes"] }
+sha3 = { version = "0.10.8", default-features = false }
